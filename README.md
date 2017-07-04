@@ -1,5 +1,9 @@
 # golf-app-java
 Weather app for golfers - Java and Java Swing
+
+![golf app](./images/golf_app_screenshot1.png) 
+
+![golf app](./images/golf_app_screenshot2.png)
        
 ## How to run the code
 
